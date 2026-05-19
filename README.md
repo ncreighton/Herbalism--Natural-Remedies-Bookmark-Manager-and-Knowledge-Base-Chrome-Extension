@@ -1,0 +1,2 @@
+# Herbalism--Natural-Remedies-Bookmark-Manager-and-Knowledge-Base-Chrome-Extension
+You've found dozens of herbalism articles, natural remedy sources, and plant medicine research scattered across your browser—but when you need that specific remedy protocol from three weeks ago, it's gone. The Herbalism &amp; Natural Remedies Bookmark Manager and Knowledge Base Chrome Extension transforms your chaotic browser history into an organized,
